@@ -9,5 +9,5 @@ Il software deve essere in grado di:
 <br>2.4. sezioni, numero di articoli, lunghezza della pagina, ecc. (sito Web di notizie)
 3. Generare tutti i file statici
 4. Automatizzare la distribuzione sul Cloud tramite contenitori
-5. Gestire in modo sicuro il flusso dei dati<br>
-Infine, abbiamo implementato un'API in grado di generare e gestire (avviare, spegnere, modificare) l'ambiente composto dagli “n” siti web di un determinato utente.
+5. Gestire in modo sicuro il flusso dei dati
+<br>Infine, abbiamo implementato un'API in grado di generare e gestire (avviare, spegnere, modificare) l'ambiente composto dagli “n” siti web di un determinato utente.
