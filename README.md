@@ -10,5 +10,4 @@ Il software deve essere in grado di:
 3. Generare tutti i file statici
 4. Automatizzare la distribuzione sul Cloud tramite contenitori
 5. Gestire in modo sicuro il flusso dei dati
-<br>
 Infine, abbiamo implementato un'API in grado di generare e gestire (avviare, spegnere, modificare) l'ambiente composto dagli “n” siti web di un determinato utente.
