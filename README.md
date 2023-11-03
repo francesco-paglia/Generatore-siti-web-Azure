@@ -7,7 +7,7 @@ Il software deve essere in grado di:</br>
 **3 -** Automatizzare la distribuzione sul Cloud tramite contenitori</br>
 **4 -** Gestire in modo sicuro il flusso dei dati</br>
 **5 -** In base al tipo di sito scelto, l'utente deve avere la possibilità di selezionare diversi parametri per la generazione:</br>
-  **-** tema, numero progetti (sito Portfolio)</br>
+    **-** tema, numero progetti (sito Portfolio)</br>
   **-** argomenti, quantità e lunghezza dei post (blog)</br>
   **-** il numero di prodotti, categorie, ecc. (e-commerce)</br>
   **-** sezioni, numero di articoli, lunghezza della pagina, ecc. (sito Web di notizie)
