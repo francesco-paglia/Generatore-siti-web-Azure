@@ -1,7 +1,8 @@
 # Generatore siti web su Azure
-Realizzazione, tramite l'approccio DevSecOps, di un software in grado di generare servizi web realistici.<br>
-Il software deve essere in grado di:
-1. Generare siti mockup di diverso tipo (e-commerce, news, blog, siti aziendali)
+Realizzazione, tramite l'approccio DevSecOps, di un software in grado di generare servizi web realistici.
+
+Il software deve essere in grado di:<br>
+**1 -** Generare siti mockup di diverso tipo (e-commerce, news, blog, siti aziendali)
 2. In base al tipo di sito scelto, l'utente deve avere la possibilità di selezionare diversi parametri per la generazione:
 <br>2.1. tema, numero progetti (sito Portfolio)
 <br>2.2. argomenti, quantità e lunghezza dei post (blog)
