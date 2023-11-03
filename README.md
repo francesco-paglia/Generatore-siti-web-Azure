@@ -2,6 +2,8 @@
 Realizzazione, tramite l'approccio DevSecOps, di un software in grado di generare servizi web realistici.
 
 Il software deve essere in grado di:</br>
+1. ok
+  1.1. ok2
 **1 -** Generare siti mockup di diverso tipo (e-commerce, news, blog, siti aziendali)</br>
 **2 -** Generare tutti i file statici</br>
 **3 -** Automatizzare la distribuzione sul Cloud tramite contenitori</br>
